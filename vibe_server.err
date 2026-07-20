@@ -1,0 +1,2 @@
+usage: start_vibe.py [-h] [--port PORT] [--host HOST] [--dev]
+start_vibe.py: error: unrecognized arguments: serve
